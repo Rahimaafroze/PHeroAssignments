@@ -1,0 +1,40 @@
+*{
+    margin: 0;   
+}
+body{
+    font-family: 'Oswald', sans-serif;
+}
+
+.header{
+    background-image: url(/images/donation6.jpg);
+    background-repeat: no-repeat;
+    height: 394px;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    color: aliceblue;
+   
+    
+}
+h1{
+    font-size: 50px;
+    font-weight: bold;
+    padding: 20px 10px;
+    
+}
+p{
+    padding-bottom: 10px;
+    font-size: 20px;
+    
+}
+#donate{
+  text-align: center;
+  font-size: 20px;
+  background-color: coral;
+  font-weight: bold;
+  border: none;
+  color: aliceblue;
+  border-radius: 12px;
+  padding: 5px;
+}
