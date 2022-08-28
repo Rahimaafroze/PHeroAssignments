@@ -123,3 +123,14 @@ li{
 #submit{
     background-color: burlywood;
 }
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 100px;
+    padding: 30px;
+    margin-top: 60px;
+}
+span{
+    color: coral;
+}
