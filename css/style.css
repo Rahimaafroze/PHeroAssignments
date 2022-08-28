@@ -47,6 +47,7 @@ button{
 }
 h2{
     font-size: 30px;
+    padding-top: 20px;
 }
 
 ul{
@@ -92,6 +93,8 @@ li{
     width: 100%;
     background-position: center;
     background-size: cover;
+    margin-top: 15px;
+    padding-top: 20px;
     
 }
 .banner h1{
@@ -102,4 +105,21 @@ li{
     float: right;
     
 }
-
+.Formemail{
+    background-color: bisque;
+    height: 80px;
+    width: 500px;
+    text-align: center;
+    margin: auto;
+    padding: 50px;
+}
+.Formemail input{
+    width: 200px;
+    height: 30px;
+    background-color: azure;
+    border-style: none;
+    
+}
+#submit{
+    background-color: burlywood;
+}
