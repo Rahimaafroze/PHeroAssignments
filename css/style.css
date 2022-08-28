@@ -28,7 +28,7 @@ p{
     font-size: 20px;
     
 }
-#donate{
+button{
   text-align: center;
   font-size: 20px;
   background-color: coral;
@@ -36,7 +36,8 @@ p{
   border: none;
   color: aliceblue;
   border-radius: 12px;
-  padding: 5px;
+  padding: 8px;
+  margin: 10px;
 }
 
 .donateToday,h2,p{
@@ -45,5 +46,28 @@ p{
 }
 h2{
     font-size: 30px;
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    padding-left: 400px;
+   
+}
+li{
+    border: 2px; 
+    width: 10%; 
+    height: 100px;
+    margin: 10px;
+    background-color: antiquewhite;
+    border-style: none;
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 40px;
+      
+}
+#BorderSec{
+    border-style: solid;
 }
 
