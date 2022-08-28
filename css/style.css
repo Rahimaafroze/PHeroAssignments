@@ -85,4 +85,21 @@ li{
     background-color: bisque;
     margin: 20px;
 }
+.banner{
+    background-image: url(/images/banner.jpg);
+    background-repeat: no-repeat;
+    height: 394px;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    
+}
+.banner h1{
+    text-align: end;
+}
+.banner-button{
+    display: inline;
+    float: right;
+    
+}
 
