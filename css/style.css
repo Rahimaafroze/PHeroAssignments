@@ -26,6 +26,7 @@ h1{
 p{
     padding-bottom: 10px;
     font-size: 20px;
+    word-wrap: break-word;
     
 }
 button{
@@ -69,5 +70,19 @@ li{
 }
 #BorderSec{
     border-style: solid;
+}
+.thirdSec{
+    width: 70%;
+    padding-left: 200px;
+}
+.donatePlan{
+    display: flex;
+}
+.half-width{
+    width: 30%;
+    height: auto;
+    padding: 20px 20px;
+    background-color: bisque;
+    margin: 20px;
 }
 
